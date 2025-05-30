@@ -61,7 +61,7 @@ Rao, K., Brahma, D. K., Das, J., Wary, A., & Indra, G. (2024). *The Impact of Au
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://ibb.co/hQTYb2L" width="45%" />
+  <img src="skeleton.jpg" width="45%" />
   <img src="https://ibb.co/nNCNN00S" width="45%" />
 </p>
 
